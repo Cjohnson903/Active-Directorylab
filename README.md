@@ -33,7 +33,7 @@ Active Directory Project Topology : <br/>
 <br />
 <br />
 Downloaded 2019 and windows 10 ISO:  <br/>
-<img https://imgur.com/gANyAgr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot from 2023-09-03 22-25-57.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configured Internal and external nic cards and configured internal networks address <br/>
