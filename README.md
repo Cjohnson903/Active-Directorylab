@@ -36,8 +36,8 @@ Downloaded 2019 and windows 10 ISO:  <br/>
 <img https://imgur.com/gANyAgr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured Internal and external nic cards and configured internal networks address <br/>
+<img src="Screenshot from 2023-09-03 22-52-25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
