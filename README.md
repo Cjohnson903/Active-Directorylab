@@ -28,11 +28,11 @@ In this lab I created a domain controller using windows 2019 server and a domain
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Users being created with powershell: <br/>
-<img src="imgur.com/a/OQ2yjeB" height="80%" width="80%" alt="Project Topology"/>
+Active Directory Project Topology : <br/>
+<img src="Screenshot from 2023-09-03 21-24-37.png" height="80%" width="80%" alt="Project Topology"/>
 <br />
 <br />
-Select the disk:  <br/>
+Downloaded 2019 and windows 10 ISO:  <br/>
 <img https://imgur.com/gANyAgr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
