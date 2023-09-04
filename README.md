@@ -45,16 +45,9 @@ Added DCHP, RAS/NAT and remote access roles:  <br/>
 <br />
 <br />
 Creating users:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot from 2023-09-03 23-46-03.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
