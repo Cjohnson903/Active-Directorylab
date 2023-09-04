@@ -29,7 +29,7 @@ In this lab I created a domain controller using windows 2019 server and a domain
 
 <p align="center">
 Users being created with powershell: <br/>
-<img src=" https://imgur.com/EswZ1U2 " height="80%" width="80%" alt="Project Topology"/>
+<img src="https://imgur.com/EswZ1U2" height="80%" width="80%" alt="Project Topology"/>
 <br />
 <br />
 Select the disk:  <br/>
