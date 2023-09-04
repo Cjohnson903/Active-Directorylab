@@ -40,8 +40,8 @@ Configured Internal and external nic cards and configured internal networks addr
 <img src="Screenshot from 2023-09-03 22-52-25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Added DCHP, RAS/NAT and remote access roles:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
