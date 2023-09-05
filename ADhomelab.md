@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0)
 
 <h2>Description</h2>
 In this lab I created a domain controller using windows 2019 server and a domain using windows 10. I will run a script to create a thousand users to simulate an enterprise environment, this will enhance my knowledge of Active Directory and Windows networking, gaining a deeper understanding of their functioning. After completing the lab setup, I not only had a functional Active Directory environment but also the skills to recreate it independently. This hands-on experience familiarized me with various network configuration options and the essential tools needed to configure Windows Server 2019 and Windows 10 clients, effectively simulating an enterprise-grade environment.
